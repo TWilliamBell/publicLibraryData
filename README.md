@@ -1,1 +1,3 @@
 # publicLibraryData
+
+This is my attempt to clean up the data provided by the Ontario government in order to prepare it for data analysis.  I went through year-by-year determining which questions had just be superficially changed, or were removed completely.  For questions that were mostly the same (e.g. "D2.1.2.H.No of Librarians" vs "D2.1.2.O.No of Librarians") I changed the later headings to match the earlier headings.  There were some portions of the dataset where large changes were implemented and so I was unable to fix up everything (sometimes 100 questions were replaced by 100 other questions, some of which were similar and some of which were not), but I have improved the consistency for the 2011 to 2015 and 2016 to 2017 especially.
